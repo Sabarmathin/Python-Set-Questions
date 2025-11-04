@@ -1,0 +1,61 @@
+1.  Scenario:
+1. Get the age as input
+2. if age is >= 18 then eligible to vote
+3. else < 18 then not eligible to vote
+
+2.	Scenario:
+1. create the list with the numbers
+2. compare the first number with second number
+3. store the largest number in one variable
+4. then iterate through the remaining numbers and compare find the the largest number and store in the created variable.
+5. print the largest number value from that variable.
+
+3.	Scenario: 
+1. Get the salary as the input 
+2. if the salary is greater than (>) $50000
+3. then bonus = salary * 0.1 else 0
+4. print the bonus amount.
+
+4.	Scenario: 
+1. get the number as input
+2. if number %2 == 1 then number is odd
+3. else number %2 == 0 then number is even
+
+5.	Scenario: 
+1. get the sentence as the input
+2. split the sentence as string of words (sentence.split())
+3. reverse the splitted words. (splitedwords.reverse())
+4. join the reversed words. (.join(reversedword))
+5. print the reversed words
+
+6.	Scenario: 
+1. Get the score on the subject as input.
+2. if the score is >=40 then the student passed 
+3. else if <40 then the student failed
+
+7.	Scenario: 
+1. Get the customers total order value as input
+2. if total order value > $100 then discount = .2*total order value
+3. amount to be paid  = total order value- discount
+4. else total order value
+
+8.	Scenario: 
+1. Get the withdrawal amount as input
+2. if the withrdrawal amount>=balance amount then user has enough balance allow withdrawal
+3. balance amount = balance amount - withrdrawal amount
+4. else if the withrdrawal amount < balance amount then user not allowed for withdrawal 
+5. print the final balance amount
+
+9.  Scenario:
+1. Get the year as input
+2. if the year % 4 == 0 then the year as Leap year
+3. else Non Leap year
+
+10.	Scenario: 
+1. Get the list of numbers as input
+2. Create the empty list for even numbers
+3. Loop through for every given number if number%2 == 0 then the number is even.
+3. append it in the even numbers list
+4. print the even number list
+
+
